@@ -63,10 +63,6 @@
 <wire x1="75.87" y1="0" x2="75.87" y2="62.22" width="0" layer="20"/>
 <wire x1="75.87" y1="62.22" x2="0" y2="62.22" width="0" layer="20"/>
 <wire x1="0" y1="62.22" x2="0" y2="0" width="0" layer="20" locked="yes"/>
-<hole x="3.81" y="58.42" drill="0.35"/>
-<hole x="72.39" y="58.42" drill="0.35"/>
-<hole x="72.39" y="3.81" drill="0.35" locked="yes"/>
-<hole x="3.81" y="3.81" drill="0.35"/>
 </plain>
 <libraries>
 <library name="Engs125_library">
